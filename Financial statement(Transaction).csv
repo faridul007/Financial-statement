@@ -1,0 +1,33 @@
+Tramsaction,,,,
+Catagory,Date,Month,Amount,Description
+purchase of equipment,1/1/2021,jan,-$500,purchase of one lawnmower
+vehicle,1/15/2021,jan,"-$15,000",purchase a company van with a loan
+services,1/31/2021,jan,"$1,500",Income from gardening services
+salaries,1/31.2021,feb,"-$2,000",Employee salarie(jan)
+purchase of equipment,2/10/2021,feb,"-$2,000",Purchase of additional lawnmower
+services,2/28/2021,feb,"$2,000",Income from gardening services(jan)
+salaries,2/28/2021,mar,"-$1,500",Employee salarie(feb)
+services,3/31/2021,mar,"$4,000",Income from gardening services(jan)
+salaries,3/31/2021,,"-$3,500",employee salarie(mar)
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
